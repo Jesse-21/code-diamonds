@@ -64,7 +64,7 @@ const Mint: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Mint | CodeDiamonds</title>
+        <title>Mint | CodeArt from Thirdy</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Navbar />
