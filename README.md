@@ -1,6 +1,3 @@
-![CodeDiamonds Banner](/public/banner.png)
-
-# 💎 CodeDiamonds
 
 An NFT Marketplace for artwork made with code!
 
@@ -8,7 +5,7 @@ We have NFT marketplaces for all different types of media: image, animation, vid
 But there are a lot of artists who use code to generate artwork (processing, three.js, css art, etc.).
 Currently, for computer-generated art, artists convert them to images or videos and upload them to the marketplaces. This limits the NFTs to be non-interactive and static. What if the code itself is uploaded in NFT instead of media files and marketplaces renders them.
 
-CodeDiamonds is an NFT marketplace for all the artwork that is generated via code.
+CodeArt is an NFT marketplace for all the artwork that is generated via code.
 It supports all code that can be rendered by the browsers. You can also create NFTs for clever code snippets of any language.
 
 #### Features:
