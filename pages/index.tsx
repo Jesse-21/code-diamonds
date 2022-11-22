@@ -16,7 +16,7 @@ const Home: NextPage = () => {
       <canvas id="background"></canvas>
       <div>
         <Head>
-          <title>Thirdy presents...</title>
+          <title>CodeART | Thirdy</title>
           <link rel="icon" href="/favicon.ico" />
         </Head>
         <Navbar />
@@ -24,12 +24,12 @@ const Home: NextPage = () => {
           <Spacer h={8} />
           <Grid xs={24} justify="center">
             <Text h1 style={{ fontSize: "55px" }}>
-              Thirdy Presents
+              CodeArt
             </Text>
           </Grid>
           <Grid xs={24} justify="center">
             <Text p style={{ fontSize: "25px", color: "#444" }}>
-             CodeArt, An Advanced NFT Marketplace for artwork made with code!
+            An Advanced NFT Marketplace for artwork made with code, presented by Thirdy.
             </Text>
           </Grid>
           <Grid xs={24} justify="center">
