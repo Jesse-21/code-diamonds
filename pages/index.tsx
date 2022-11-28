@@ -23,7 +23,7 @@ const Home: NextPage = () => {
         <Grid.Container justify="center" gap={2}>
           <Spacer h={8} />
           <Grid xs={24} justify="center">
-            <img src="/public/logo.png" width='200px"></img>
+            <img src="https://social-media-dapp-5pqo.vercel.app/public/logo.png"></img>
             <Text h1 style={{ fontSize: "55px" }}>
              
             </Text>
