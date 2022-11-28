@@ -23,9 +23,9 @@ const Home: NextPage = () => {
         <Grid.Container justify="center" gap={2}>
           <Spacer h={8} />
           <Grid xs={24} justify="center">
+            <img src="/public/logo.png" width='200px"></img>
             <Text h1 style={{ fontSize: "55px" }}>
-              <img src="/public/logo.png" width='20%"></img>
-              CodeArt
+             
             </Text>
           </Grid>
           <Grid xs={24} justify="center">
